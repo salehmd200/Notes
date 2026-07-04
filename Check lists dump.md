@@ -1,0 +1,12 @@
+- [ ] pdf gear for ipad
+- [ ] beta blockers effect on k lvls? Pathphysio. Beta agonists and hypomag? 
+- [ ] Na¹ is raised 4-6 mmol/day, but lowered 12 mmol/day. Why? 
+- [ ] Malar rash in dermatomyositis (involvs nasolabial folds) vs. SLE malar rash?
+- [ ] Dermatomyositis, Polymyositis vs. PMR vs. Fibromyalgia
+- [ ] ALS review
+- [ ] nicos weg transcripts
+- [ ] raynaud's is not a diagnosis
+- [ ] mechanical v. // PEEP? 
+- [ ] CPAP and NIV in 5 minutes - Nick smith on YT
+- [ ] mistakes bank notebook on NLM?
+- [ ] neuroscientifically challanged - YT
