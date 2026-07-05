@@ -1,4 +1,4 @@
-- [ ] pdf gear for ipad
+- [x] pdf gear for ipad
 - [ ] beta blockers effect on k lvls? Pathphysio. Beta agonists and hypomag? 
 - [ ] Na¹ is raised 4-6 mmol/day, but lowered 12 mmol/day. Why? 
 - [ ] Malar rash in dermatomyositis (involvs nasolabial folds) vs. SLE malar rash?
