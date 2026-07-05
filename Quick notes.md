@@ -1,2 +1,3 @@
 - [x] How to do Abbreviated mental status test? (Used for CURB65)
 - [x] ALVARADO vs. Mantrles scores
+- [ ] 
