@@ -10,3 +10,6 @@
 
 ***
 Questions
+- [x] resp ai
+- [x] resp lila
+- [ ] 
