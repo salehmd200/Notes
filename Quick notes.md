@@ -1,4 +1,4 @@
 - [x] How to do Abbreviated mental status test? (Used for CURB65)
 - [x] ALVARADO vs. Mantrles scores
 - [ ] all the children with fevers!
-- [ ] افة فقاعية على رجل الولد فقاعتين مع حكة ddx and ttx 
+- [x] افة فقاعية على رجل الولد فقاعتين مع حكة ddx and ttx 
