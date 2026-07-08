@@ -3,3 +3,4 @@
 - [ ] all the children with fevers!
 - [x] افة فقاعية على رجل الولد فقاعتين مع حكة ddx and ttx 
 - [x] will applying for jobs w ai generated resume get me flagged? 
+- [ ] cefix 
