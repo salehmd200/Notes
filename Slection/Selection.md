@@ -14,5 +14,5 @@
 Questions
 - [x] resp ai
 - [x] resp lila
-- [ ] Endo ai
+- [x] Endo ai
 - [ ] Endo lila
