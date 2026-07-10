@@ -3,4 +3,5 @@
      Ttx: **oral antihistamine** for itching + **topical steroid** cream 
      Don't rupture, If ruptured, dressing
 
-2. 
+2. Balanitis 
+  Ttx: topical anitbacterial cream + good hygiene 
