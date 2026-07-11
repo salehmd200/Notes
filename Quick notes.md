@@ -5,4 +5,4 @@
 - [x] will applying for jobs w ai generated resume get me flagged? 
 - [ ] cefix is dosed for 5 or 7 days
 - [ ] cefurixime dosing
-- [ ] mucosal neuromas on tongue
+- [x] mucosal neuromas on tongue
