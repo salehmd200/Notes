@@ -15,4 +15,6 @@ Questions
 - [x] resp ai
 - [x] resp lila
 - [x] Endo ai
-- [ ] Endo lila
+- [x] Endo lila
+- [ ] nephro ai 
+- [ ] nephrol lila
