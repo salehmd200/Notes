@@ -8,3 +8,4 @@
 - [x] mucosal neuromas on tongue
 - [ ] kenacomb cr?
 - [ ] allow suryp ربع الوزن مرتين باليوم؟  نفس الارتكس
+- [ ] bepanthen
