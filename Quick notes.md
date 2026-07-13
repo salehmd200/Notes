@@ -6,3 +6,5 @@
 - [ ] cefix is dosed for 5 or 7 days
 - [ ] cefurixime dosing
 - [x] mucosal neuromas on tongue
+- [ ] kenacomb cr?
+- [ ] allow s
