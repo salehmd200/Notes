@@ -7,4 +7,4 @@
 - [ ] cefurixime dosing
 - [x] mucosal neuromas on tongue
 - [ ] kenacomb cr?
-- [ ] allow s
+- [ ] allow suryp ربع الوزن مرتين باليوم؟  نفس الارتكس
