@@ -1,1 +1,2 @@
-Heart valves replacement anticoagulation
+Heart valves replacement anticoagulation:
+Is the valve biprosthetic
