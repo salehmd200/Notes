@@ -1,4 +1,5 @@
 - Emma reviews on YT
+- Anki Tags rapid reviews for IM, Peds
 - Questions: Laila, NLM generated 
 - last night checklists - NLM generated
 ***
