@@ -9,4 +9,4 @@
 - [ ] kenacomb cr?
 - [ ] allow suryp ربع الوزن مرتين باليوم؟  نفس الارتكس
 - [ ] bepanthen
-- [ ] Gravy? Xan i use corn starch as a thickner
+- [ ] Gravy? Can i use corn starch as a thickner
