@@ -9,3 +9,4 @@
 - [ ] kenacomb cr?
 - [ ] allow suryp ربع الوزن مرتين باليوم؟  نفس الارتكس
 - [ ] bepanthen
+من
