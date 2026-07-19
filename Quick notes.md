@@ -10,3 +10,4 @@
 - [ ] allow suryp ربع الوزن مرتين باليوم؟  نفس الارتكس
 - [ ] bepanthen
 - [ ] Gravy? Can i use corn starch as a thickner
+- [ ] croup
