@@ -23,4 +23,4 @@ Questions
 - [ ] hem lila
 ANKI CARDS
 ***
-الوضع المثالي
+مراجعة سريعة عن كريقة انكي
