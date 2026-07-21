@@ -21,3 +21,4 @@ Questions
 - [x] nephro lila
 - [x] hem ai 
 - [ ] hem lila
+ANKI CARDS
