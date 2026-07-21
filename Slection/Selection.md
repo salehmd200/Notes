@@ -23,3 +23,4 @@ Questions
 - [ ] hem lila
 ANKI CARDS
 ***
+الوضع المثالي
