@@ -23,4 +23,7 @@ Questions
 - [ ] hem lila
 ANKI CARDS
 ***
-مراجعة سريعة عن كريقة انكي
+مراجعة سريعة عن طريق انكي كاردز + step 2 rviews on yt
+بعدها اسئلة لكل شابتر 
+Lila, ai generated or mrcp. 
+No mrcp for now tho. 
