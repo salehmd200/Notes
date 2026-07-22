@@ -20,7 +20,9 @@ Questions
 - [x] nephro ai 
 - [x] nephro lila
 - [x] hem ai 
-- [ ] hem lila
+- [x] hem lila
+- [ ] GI
+- [ ] 
 ANKI CARDS
 ***
 مراجعة سريعة عن طريق انكي كاردز + step 2 rviews on yt
