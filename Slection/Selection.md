@@ -22,7 +22,10 @@ Questions
 - [x] hem ai 
 - [x] hem lila
 - [ ] GI
-- [ ] 
+- [ ] rgeumato
+- [ ] cardio
+- [ ] neuro
+- [ ] Infectious
 ANKI CARDS
 ***
 مراجعة سريعة عن طريق انكي كاردز + step 2 rviews on yt
