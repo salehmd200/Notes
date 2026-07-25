@@ -13,20 +13,18 @@
 
 ***
 Questions
-- [x] resp ai
-- [x] resp lila
-- [x] Endo ai
-- [x] Endo lila
-- [x] nephro ai 
-- [x] nephro lila
-- [x] hem ai 
-- [x] hem lila
-- [ ] GI
-- [ ] rgeumato
+- [x] resp lila + ai 
+- [x] Endo ai + lila
+- [x] nephro ai + lila
+- [x] hem ai + lila
+- [x] GI ai + lila
+- [ ] rheumato
 - [ ] cardio
-- [ ] neuro
+- [ ] neuro ±
 - [ ] Infectious
-ANKI CARDS
+ANKI CARDS - also rapid review orange cards! flag:2
+- [x] GI
+- [ ] Resp
 ***
 مراجعة سريعة عن طريق انكي كاردز + step 2 rviews on yt
 بعدها اسئلة لكل شابتر 
