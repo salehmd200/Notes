@@ -7,5 +7,5 @@
   Ttx: topical anitbacterial cream + good hygiene 
   3. Anaphylaxis/angiedema
   Decort + adrenalin
-  Decort 0.15mg/kg
+  Decort: 0.15mg/kg, adrenalin
   ![[IMG_20260725_055147.jpg]]
