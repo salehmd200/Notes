@@ -6,4 +6,4 @@
 2. Balanitis 
   Ttx: topical anitbacterial cream + good hygiene 
   3. Anaphylaxis/angiedema
-  
+  ![[IMG_20260725_055147.jpg]]
