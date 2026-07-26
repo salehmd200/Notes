@@ -17,4 +17,3 @@
 - [ ] ampicillin + cefotaxime menengial dose
 - [x] dr maker on YT
 - [ ] zoho notes for ipad 
-Test
