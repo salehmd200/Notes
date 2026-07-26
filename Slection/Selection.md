@@ -25,6 +25,7 @@ Questions
 ANKI CARDS - also rapid review orange cards! flag:2
 - [x] GI
 - [ ] Resp
+أسئلة امتحانات الجامعة للمدسن 
 ***
 مراجعة سريعة عن طريق انكي كاردز + step 2 rviews on yt
 بعدها اسئلة لكل شابتر 
