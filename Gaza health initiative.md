@@ -25,4 +25,4 @@ This should be the final amount(after Chuffed cuts, exchange and transfer rates)
 # Basic medications and their local prices
 ***
 - [ ] Radio Watermelon for verification 
-Seems legit but needs 
+Seems legit but needs an x account and a donation link. 
