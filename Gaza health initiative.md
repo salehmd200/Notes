@@ -24,5 +24,4 @@ Full needed budget= 800+550=$ 1350
 This should be the final amount(after Chuffed cuts, exchange and transfer rates)
 # Basic medications and their local prices
 ***
-#
-Radio Watermelon for verification 
+# Radio Watermelon for verification 
