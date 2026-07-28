@@ -28,4 +28,4 @@ Decision shortcut:
 |Acidosis (CO₂ high)|If Vt appropriate|↑RR                                                  |
 |Acidosis (CO₂ high)|If Vt too low    |↑Vt                                                  |
 |Hypoxemia          |—                |↑PEEP first, then ↑FiO₂ (or vice versa if FiO₂ maxed)|
-
+Note: it is usually preferable to **increase PEEP** to allow for lower levels of FiO2 if oxygenation needs to be increased (recall PEEP and FiO2 are the two main ways to increase PaO2)
