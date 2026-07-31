@@ -17,3 +17,4 @@
 - [ ] ampicillin + cefotaxime menengial dose
 - [x] dr maker on YT
 - [ ] zoho notes for ipad 
+- [ ] Acute bronchitis causes? Bacterial? Should i do abx
