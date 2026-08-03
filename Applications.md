@@ -7,17 +7,10 @@
 References: 
 
 1. Dr. Mohammed Hazem - 
-
 Phone number: +19012125673
-
 E-mail:
-
 mohammad_hazem@yahoo.com
 
-  
-
 2. Dr. Shaher Hamdan - 
-
 Phone number: +970597761194
-
 E-mail: shaherhamdan28@gmail.com
