@@ -16,6 +16,6 @@
 - [ ] How to edit or do such posts? 
 - [ ] ampicillin + cefotaxime menengial dose
 - [x] dr maker on YT
-- [ ] zoho notes for ipad 
+- [x] zoho notes for ipad 
 - [x] Acute bronchitis causes? Bacterial? Should i do abx
 - [ ] Peritonsillar abscess (quinsy) vs AFT Vs retrograde abscess
