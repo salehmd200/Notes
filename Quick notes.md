@@ -19,4 +19,4 @@
 - [x] zoho notes for ipad 
 - [x] Acute bronchitis causes? Bacterial? Should i do abx
 - [ ] Peritonsillar abscess (quinsy) vs AFT Vs retrograde abscess
-- [ ] psychiatry rundown on chatgpt to be 
+- [ ] psychiatry rundown on chatgpt to be handed over to notebook for audiooverview 
