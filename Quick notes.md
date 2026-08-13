@@ -20,4 +20,4 @@
 - [x] Acute bronchitis causes? Bacterial? Should i do abx
 - [ ] Peritonsillar abscess (quinsy) vs AFT Vs retrograde abscess
 - [ ] psychiatry rundown on chatgpt to be handed over to notebook for audiooverview 
-- [ ] why RSI is not the deafua
+- [ ] why RSI is not the deafualt and used for everybody?
