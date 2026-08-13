@@ -6,7 +6,7 @@
 - [ ] cefix is dosed for 5 or 7 days
 - [ ] cefurixime dosing
 - [x] mucosal neuromas on tongue
-- [ ] kenacomb cr?
+- [x] kenacomb cr?
 - [ ] allow suryp ربع الوزن مرتين باليوم؟  نفس الارتكس
 - [ ] bepanthen
 - [ ] Gravy? Can i use corn starch as a thickner
@@ -19,3 +19,4 @@
 - [x] zoho notes for ipad 
 - [x] Acute bronchitis causes? Bacterial? Should i do abx
 - [ ] Peritonsillar abscess (quinsy) vs AFT Vs retrograde abscess
+- [ ] psychiatry rundown 
