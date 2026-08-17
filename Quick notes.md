@@ -23,4 +23,4 @@
 - [ ] why RSI is not the deafualt and used for everybody?
 - [ ] ETT skills? التسهيلات
 - [ ] Ett= ventilator? Or bag mask?
-- [ ] فيديوهات ستب 2 
+- [ ] فيديوهات ستب 2 الريفيوز، ممكن نرفعهم على ai و نعمل منهم تلاخيص او فلاش كاردز!!
