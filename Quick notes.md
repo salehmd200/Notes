@@ -7,7 +7,7 @@
 - [ ] cefurixime dosing
 - [x] mucosal neuromas on tongue
 - [x] kenacomb cr?
-- [ ] allow suryp ربع الوزن مرتين باليوم؟  نفس الارتكس
+- [ ] allow suryp ربع الوزن مرتين باليوم نفس الارتكس 
 - [ ] bepanthen
 - [ ] Gravy? Can i use corn starch as a thickner
 - [ ] croup ddx
