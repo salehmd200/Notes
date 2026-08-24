@@ -1,0 +1,1 @@
+Hypertriglyceridemia and hypercholesterolemia both cause fatty skin growths called xanthomas, but they present with distinct patterns. ==Hypertriglyceridemia typically causes small, sudden eruptive bumps on the trunk and limbs, while hypercholesterolemia commonly features firm nodules on joints and flat yellow plaques on the eyelids==.
