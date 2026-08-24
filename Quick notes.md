@@ -26,3 +26,5 @@
 - [ ] فيديوهات ستب 2 الريفيوز، ممكن نرفعهم على ai و نعمل منهم تلاخيص او فلاش كاردز!!
 - [ ] The only recommended beta blockers in HFrEF are bisoprolol, metoprolol succinate, and carvidilol, in concomitant dialysis, dialysability makes carvidilol as the best option
 - [ ] ED.TED.COM/Earthschool
+- [ ] mcc causes of NAGMA - diarrhea and RTA. If the urine anion gap is neGUTive it's diarrhea, if it's positive its mostly RTA?
+- [ ] PMR vs. FM vs. polymyositis/dermatomyositis (stiffness, pain, weakness)
