@@ -26,5 +26,5 @@
 - [ ] فيديوهات ستب 2 الريفيوز، ممكن نرفعهم على ai و نعمل منهم تلاخيص او فلاش كاردز!!
 - [ ] The only recommended beta blockers in HFrEF are bisoprolol, metoprolol succinate, and carvidilol, in concomitant dialysis, dialysability makes carvidilol as the best option
 - [ ] ED.TED.COM/Earthschool
-- [ ] mcc causes of NAGMA - diarrhea and RTA. If the urine anion gap is neGUTive it's diarrhea, if it's positive its mostly RTA?
+- [ ] mcc causes of NAGMA - diarrhea and RTA. If the urine anion gap is neGUTive it's diarrhea, if it's positive its mostly RTA. The urine anion gap (UAG) is a calculated lab test used to find the cause of normal anion gap metabolic acidosis. It estimates urine ammonium levels indirectly. The formula is (Na⁺ + K⁺) - Cl⁻. A negative gap means normal kidney acid response, like from diarrhea. A positive gap points to a kidney problem, like renal tubular acidosis.
 - [ ] PMR vs. FM vs. polymyositis/dermatomyositis (stiffness, pain, weakness)
