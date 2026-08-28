@@ -1,1 +1,2 @@
-Effective cough = let them keep coughing; ineffective cough = intervene now.
+- Effective cough = let them keep coughing; ineffective cough = intervene now.
+- 
