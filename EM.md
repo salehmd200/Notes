@@ -1,2 +1,2 @@
 - Effective cough = let them keep coughing; ineffective cough = intervene now.
-- 
+- intervention? Heiml
