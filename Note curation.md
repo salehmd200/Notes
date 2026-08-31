@@ -1,0 +1,11 @@
+- Are nuts healthier than chips and pringles  
+- How to make healthier snacks. Popcorn for exmple  
+- Infantile colic  
+- Claude project for language learning  
+- Peds drug dosing pics  
+- Pharmacokinetics? Pathpysiology of diseases?
+نوتات مجموعات التلغرام بالكلنكال لخصها، واحذف بعد. عادي انسخ كل المسجات ارسلها لشات بعدها انسخ التلخيص على obsidian 
+- How to curate sources for a selected topic or concept
+- Infection oriented antibiotics chatgpt, can I get it as a pdf? Should I feed notebookLM w it? To train me even more
+- Trades on youtube
+- The content bank
