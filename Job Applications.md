@@ -3,3 +3,5 @@
 - Maintained accurate medical records and adhered to Infection Prevention and Control (IPC) standards.
 - Ensured compliance with Safeguarding and PSEA policies by protecting patient dignity, confidentiality, and safety.
 - Communicated effectively with patients and multidisciplinary teams in English and Arabic.
+***
+I am seeking entry into MSF's Gaza operations and open to growth within the mission.
