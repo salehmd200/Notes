@@ -4,17 +4,17 @@
 - [x] افة فقاعية على رجل الولد فقاعتين مع حكة ddx and ttx 
 - [x] will applying for jobs w ai generated resume get me flagged? 
 - [ ] cefix is dosed for 5 or 7 days
-- [ ] cefurixime dosing
+- [x] cefurixime dosing 50 per kg per dose twice a day
 - [x] mucosal neuromas on tongue
 - [x] kenacomb cr?
-- [ ] allow suryp ربع الوزن مرتين باليوم نفس الارتكس 
+- [x] allow suryp ربع الوزن مرتين باليوم نفس الارتكس 
 - [ ] bepanthen
 - [ ] Gravy? Can i use corn starch as a thickner
-- [ ] croup ddx
-- [ ] can i have multiple insta accounts? 
+- [ ] croup ddx - vs foreign body. 
+- [x] can i have multiple insta accounts? 
 - [ ] Can i get money if i set up an animated movies/books etc acc? How is it monetized? 
 - [ ] How to edit or do such posts? 
-- [ ] ampicillin + cefotaxime menengial dose
+- [x] ampicillin + cefotaxime menengial dose 50 per kg per dose q6hr
 - [x] dr maker on YT
 - [x] zoho notes for ipad 
 - [x] Acute bronchitis causes? Bacterial? Should i do abx
@@ -27,5 +27,5 @@
 - [ ] The only recommended beta blockers in HFrEF are bisoprolol, metoprolol succinate, and carvidilol, in concomitant dialysis, dialysability makes carvidilol as the best option
 - [ ] ED.TED.COM/Earthschool
 - [ ] mcc causes of NAGMA - diarrhea and RTA. If the urine anion gap is neGUTive it's diarrhea, if it's positive its mostly RTA. The urine anion gap (UAG) is a calculated lab test used to find the cause of normal anion gap metabolic acidosis. It estimates urine ammonium levels indirectly. The formula is (Na⁺ + K⁺) - Cl⁻. A negative gap means normal kidney acid response, like from diarrhea. A positive gap points to a kidney problem, like renal tubular acidosis.
-- [ ] PMR vs. FM vs. polymyositis/dermatomyositis (stiffness, pain, weakness)
+- [x] PMR vs. FM vs. polymyositis/dermatomyositis (stiffness, pain, weakness)
 - [ ] how to combat cravings? Like what to do if you crave a salty snack?
