@@ -1,4 +1,4 @@
--[[]] Are nuts healthier than chips and pringles  
+- [x] Are nuts healthier than chips and pringles  
 - How to make healthier snacks. Popcorn for exmple  
 - Infantile colic  
 - Claude project for language learning  
