@@ -1,8 +1,8 @@
 - [x] How to do Abbreviated mental status test? (Used for CURB65)
 - [x] ALVARADO vs. Mantrles scores
-.- [ ] all the children with fevers! Get a good approach for fever 
+- [ ] all the children with fevers! Get a good approach for fever 
 - [x] افة فقاعية على رجل الولد فقاعتين مع حكة ddx and ttx 
-- [x] will applying for jobs w ai generated resume get me flagged? 
+- [x] will applying for jobs w ai generated resume get me flagged?
 - [x] cefix is dosed for 5 or 7 days
 - [x] cefurixime dosing 50 per kg per dose twice a day
 - [x] mucosal neuromas on tongue
