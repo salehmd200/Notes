@@ -39,7 +39,7 @@ Sore throat and enlarged tonsils can result from several distinct conditions. Th
 - Trismus + unilateral soft-palate swelling + contralateral uvular deviation → Quinsy.
 - Fever + torticollis + restricted neck extension → Consider RPA.
 
-## 3. Clinical Pearls and Safety
+## 3.Clinical Pearls and Safety
 
 - Trismus is an important clue for peritonsillar abscess.
 - Uvular deviation away from unilateral peritonsillar swelling strongly suggests Quinsy.
