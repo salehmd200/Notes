@@ -147,9 +147,7 @@ Sore throat and enlarged tonsils can result from several distinct conditions. Th
 **Clinical relevance:**
 
 - Significant hypertrophy can cause upper airway obstruction.
-- Grade 4 tonsils are not necessarily infected.
-- Assess symptoms of sleep-disordered breathing, particularly in children.
-
+- Grade 4 tonsils are not necessarily
 ## 5. Practical Clinical Examination Algorithm
 
 In a patient presenting with sore throat:
