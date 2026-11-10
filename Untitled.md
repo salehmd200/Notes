@@ -115,14 +115,8 @@ Sore throat and enlarged tonsils can result from several distinct conditions. Th
 - Airway assessment.
 - IV broad-spectrum antibiotics.
 - Urgent ENT assessment.
-- Surgical drainage when indicated.
-
-**Complications:**
-
-- Airway obstruction.
-- Mediastinal spread.
-
-## 3. Comparative Clinical Table
+- Surgical drainage w
+## Comparative Clinical Table
 
 |Finding|Hypertrophy|Pharyngitis|AFT|Quinsy|RPA|
 |---|---|---|---|---|---|
