@@ -153,13 +153,7 @@ Sore throat and enlarged tonsils can result from several distinct conditions. Th
 In a patient presenting with sore throat:
 
 1. **Assess tonsillar size:** Are the tonsils enlarged?
-2. **Assess pharynx:** Is there diffuse pharyngeal erythema?
-3. **Look for exudates:** Are white or yellow exudates present?
-4. **Assess symmetry:** Is swelling bilateral or unilateral?
-5. **Check mouth opening:** Is trismus present?
-6. **Assess uvula:** Is it deviated?
-7. **Examine the neck:** Is there stiffness, torticollis, or painful extension?
-8. **Assess posterior pharyngeal wall:** Is there bulging?
+2. **Assess pharynx:** Is t
 
 ### Diagnostic Clues
 
