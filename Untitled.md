@@ -63,19 +63,7 @@ Sore throat and enlarged tonsils can result from several distinct conditions. Th
 **Clinical features:**
 
 - Bilateral tonsillar enlargement.
-- Tonsillar erythema.
-- White or yellow follicular exudates.
-- Fever and odynophagia.
-- Possible tender anterior cervical lymphadenopathy.
-
-**Management:**
-
-- Analgesia and hydration.
-- Antibiotics when bacterial infection is sufficiently suspected or confirmed, according to clinical assessment and local guidelines.
-
-### D. Peritonsillar Abscess (Quinsy)
-
-**Definition:** Collection of pus in the peritonsillar space, commonly a complication of
+- Tons
 ## Comparative Clinical Table
 
 |Finding|Hypertrophy|Pharyngitis|AFT|Quinsy|RPA|
