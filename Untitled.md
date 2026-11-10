@@ -15,7 +15,7 @@ Sore throat and enlarged tonsils can result from several distinct conditions. Th
 - Hypertrophy = anatomical enlargement.
 - Pharyngitis = inflammation of the pharynx.
 - Tonsillitis = inflammation of the tonsils.
-- Abscess = localize
+- Abscess = localize collection of pus
 
 ## Comparative Clinical Table
 
