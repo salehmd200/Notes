@@ -8,7 +8,7 @@
 - [x] mucosal neuromas on tongue
 - [x] kenacomb cr?
 - [x] allow suryp ربع الوزن مرتين باليوم نفس الارتكس 
-- [ ] bepanthen. 
+- [x] bepanthen. 
 - [x] Gravy? Can i use corn starch as a thickner.
 - [x] croup ddx - vs foreign body. 
 - [x] can i have multiple insta accounts? 
