@@ -1,4 +1,4 @@
-# Differential Diagnosis of Sore Throat: Tonsillitis, Pharyngitis & Deep Neck Abscesses
+Tonsillitis, Pharyngitis & Deep Neck Abscesses
 
 ## 1. Overview
 
