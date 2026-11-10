@@ -41,29 +41,6 @@ Sore throat and enlarged tonsils can result from several distinct conditions. Th
 
 ### B. Acute Pharyngitis
 
-**Definition:** Inflammation of the pharyngeal mucosa.
-
-**Clinical features:**
-
-- Diffuse pharyngeal erythema.
-- Sore throat and odynophagia.
-- Tonsils may be normal or inflamed.
-- Possible fever and cervical lymphadenopathy.
-
-**Viral features:**
-
-- Cough.
-- Rhinorrhea.
-- Hoarseness.
-
-### C. Acute Tonsillitis / Acute Follicular Tonsillitis (AFT)
-
-**Definition:** Acute inflammation of the palatine tonsils.
-
-**Clinical features:**
-
-- Bilateral tonsillar enlargement.
-- Tons
 ## Comparative Clinical Table
 
 |Finding|Hypertrophy|Pharyngitis|AFT|Quinsy|RPA|
