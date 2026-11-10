@@ -9,7 +9,7 @@
 - [x] kenacomb cr?
 - [x] allow suryp ربع الوزن مرتين باليوم نفس الارتكس 
 - [ ] bepanthen. 
-- [ ] Gravy? Can i use corn starch as a thickner.
+- [x] Gravy? Can i use corn starch as a thickner.
 - [x] croup ddx - vs foreign body. 
 - [x] can i have multiple insta accounts? 
 - [ ] Can i get money if i set up an animated movies/books etc acc? How is it monetized? 
