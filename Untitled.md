@@ -15,7 +15,31 @@ Sore throat and enlarged tonsils can result from several distinct conditions. Th
 - Hypertrophy = anatomical enlargement.
 - Pharyngitis = inflammation of the pharynx.
 - Tonsillitis = inflammation of the tonsils.
-- Abscess = localize
+- Abscess = localized collection of pus.
+
+## 2. Individual Conditions
+
+### A. Tonsillar Hypertrophy
+
+**Definition:** Enlargement of the palatine tonsils, which may occur without active infection.
+
+**Clinical features:**
+
+- Usually bilateral and symmetrical.
+- Enlarged tonsils, sometimes touching at the midline.
+- Typically no acute erythema or exudates.
+- May be asymptomatic.
+
+**Symptoms associated with significant enlargement:**
+
+- Snoring.
+- Mouth breathing.
+- Dysphagia.
+- Obstructive sleep apnea.
+
+**Important:** Tonsil size alone does not indicate infection or disease severity.
+
+### B. Acute Pharyngitis
 
 ## Comparative Clinical Table
 
