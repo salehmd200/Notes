@@ -49,17 +49,6 @@ Sore throat and enlarged tonsils can result from several distinct conditions. Th
 - Avoid unnecessary pharyngeal examination or sedation in a child with suspected deep neck infection and airway compromise.
 - Tonsillar hypertrophy is not synonymous with tonsillitis.
 
-## 7. Unresolved Learning Points
-
-Topics worth exploring further:
-
-- Centor/McIsaac criteria and indications for streptococcal testing.
-- Viral versus bacterial pharyngitis.
-- Indications for tonsillectomy.
-- Imaging: ultrasound versus contrast-enhanced CT in suspected peritonsillar abscess.
-- Indications for surgical drainage of Quinsy and RPA.
-- Differentiating retropharyngeal abscess from parapharyngeal abscess and epiglottitis.
-
 ## Key Insights
 
 1. **Hypertrophy is enlargement, not necessarily infection.**
