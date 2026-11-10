@@ -136,25 +136,6 @@ Sore throat and enlarged tonsils can result from several distinct conditions. Th
 |Typical age|Any|Any|Any|Adolescents/adults|Young children|
 
 
-|Grade|Tonsillar occupation|
-|---|---|
-|0|Within tonsillar fossa|
-|1+|Less than 25%|
-|2+|25–50%|
-|3+|50–75%|
-|4+|75–100% (kissing tonsils)|
-
-**Clinical relevance:**
-
-- Significant hypertrophy can cause upper airway obstruction.
-- Grade 4 tonsils are not necessarily
-## 5. Practical Clinical Examination Algorithm
-
-In a patient presenting with sore throat:
-
-1. **Assess tonsillar size:** Are the tonsils enlarged?
-2. **Assess pharynx:** Is t
-
 ### Diagnostic Clues
 
 - Bilateral exudative tonsils without asymmetry or trismus → Acute tonsillitis/AFT.
