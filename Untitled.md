@@ -98,24 +98,7 @@ Sore throat and enlarged tonsils can result from several distinct conditions. Th
 
 **Epidemiology:**
 
-- More common in young children, particularly under five years.
-
-**Clinical features:**
-
-- Fever and toxic appearance.
-- Dysphagia and drooling.
-- Neck stiffness.
-- Painful neck extension.
-- Torticollis.
-- Possible posterior pharyngeal wall bulging.
-
-**Management:**
-
-- Hospital admission.
-- Airway assessment.
-- IV broad-spectrum antibiotics.
-- Urgent ENT assessment.
-- Surgical drainage w
+- More common in 
 ## Comparative Clinical Table
 
 |Finding|Hypertrophy|Pharyngitis|AFT|Quinsy|RPA|
