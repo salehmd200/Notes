@@ -17,7 +17,7 @@ Sore throat and enlarged tonsils can result from several distinct conditions. Th
 - Tonsillitis = inflammation of the tonsils.
 - Abscess = localize collection of pus
 
-## Comparative Clinical Table
+## 2. Comparative Clinical Table
 
 |Finding|Hypertrophy|Pharyngitis|AFT|Quinsy|RPA|
 |---|---|---|---|---|---|
