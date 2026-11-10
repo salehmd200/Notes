@@ -10,7 +10,7 @@
 - [x] allow suryp ربع الوزن مرتين باليوم نفس الارتكس 
 - [ ] bepanthen. 
 - [ ] Gravy? Can i use corn starch as a thickner.
-- [ ] croup ddx - vs foreign body. 
+- [x] croup ddx - vs foreign body. 
 - [x] can i have multiple insta accounts? 
 - [ ] Can i get money if i set up an animated movies/books etc acc? How is it monetized? 
 - [ ] How to edit or do such posts? 
@@ -18,7 +18,7 @@
 - [x] dr maker on YT
 - [x] zoho notes for ipad 
 - [x] Acute bronchitis causes? Bacterial? Should i do abx
-- [ ] Peritonsillar abscess (quinsy) vs AFT Vs retrograde abscess
+- [x] Peritonsillar abscess (quinsy) vs AFT Vs retrograde abscess
 - [x] psychiatry rundown on chatgpt to be handed over to notebook for audiooverview 
 - [x] why RSI is not the deafualt and used for everybody?
 - [ ] ETT skills? التسهيلات
