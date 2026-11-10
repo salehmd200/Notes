@@ -1,0 +1,201 @@
+# Differential Diagnosis of Sore Throat: Tonsillitis, Pharyngitis & Deep Neck Abscesses
+
+## 1. Overview
+
+Sore throat and enlarged tonsils can result from several distinct conditions. The differential includes:
+
+- Tonsillar hypertrophy
+- Acute pharyngitis
+- Acute tonsillitis (including acute follicular tonsillitis)
+- Peritonsillar abscess (Quinsy)
+- Retropharyngeal abscess (RPA)
+
+**Fundamental distinction:**
+
+- Hypertrophy = anatomical enlargement.
+- Pharyngitis = inflammation of the pharynx.
+- Tonsillitis = inflammation of the tonsils.
+- Abscess = localized collection of pus.
+
+## 2. Individual Conditions
+
+### A. Tonsillar Hypertrophy
+
+**Definition:** Enlargement of the palatine tonsils, which may occur without active infection.
+
+**Clinical features:**
+
+- Usually bilateral and symmetrical.
+- Enlarged tonsils, sometimes touching at the midline.
+- Typically no acute erythema or exudates.
+- May be asymptomatic.
+
+**Symptoms associated with significant enlargement:**
+
+- Snoring.
+- Mouth breathing.
+- Dysphagia.
+- Obstructive sleep apnea.
+
+**Important:** Tonsil size alone does not indicate infection or disease severity.
+
+### B. Acute Pharyngitis
+
+**Definition:** Inflammation of the pharyngeal mucosa.
+
+**Clinical features:**
+
+- Diffuse pharyngeal erythema.
+- Sore throat and odynophagia.
+- Tonsils may be normal or inflamed.
+- Possible fever and cervical lymphadenopathy.
+
+**Viral features:**
+
+- Cough.
+- Rhinorrhea.
+- Hoarseness.
+
+### C. Acute Tonsillitis / Acute Follicular Tonsillitis (AFT)
+
+**Definition:** Acute inflammation of the palatine tonsils.
+
+**Clinical features:**
+
+- Bilateral tonsillar enlargement.
+- Tonsillar erythema.
+- White or yellow follicular exudates.
+- Fever and odynophagia.
+- Possible tender anterior cervical lymphadenopathy.
+
+**Management:**
+
+- Analgesia and hydration.
+- Antibiotics when bacterial infection is sufficiently suspected or confirmed, according to clinical assessment and local guidelines.
+
+### D. Peritonsillar Abscess (Quinsy)
+
+**Definition:** Collection of pus in the peritonsillar space, commonly a complication of tonsillitis.
+
+**Clinical features:**
+
+- Usually unilateral severe sore throat.
+- Trismus (particularly characteristic).
+- Muffled, hot-potato voice.
+- Unilateral soft-palate/peritonsillar bulging.
+- Contralateral uvular deviation.
+- Dysphagia and possible drooling.
+
+**Management:**
+
+- Urgent ENT assessment.
+- Antibiotics covering streptococci and anaerobes.
+- Drainage when indicated.
+
+### E. Retropharyngeal Abscess (RPA)
+
+**Definition:** Deep neck space infection involving the retropharyngeal space.
+
+**Epidemiology:**
+
+- More common in young children, particularly under five years.
+
+**Clinical features:**
+
+- Fever and toxic appearance.
+- Dysphagia and drooling.
+- Neck stiffness.
+- Painful neck extension.
+- Torticollis.
+- Possible posterior pharyngeal wall bulging.
+
+**Management:**
+
+- Hospital admission.
+- Airway assessment.
+- IV broad-spectrum antibiotics.
+- Urgent ENT assessment.
+- Surgical drainage when indicated.
+
+**Complications:**
+
+- Airway obstruction.
+- Mediastinal spread.
+
+## 3. Comparative Clinical Table
+
+|Finding|Hypertrophy|Pharyngitis|AFT|Quinsy|RPA|
+|---|---|---|---|---|---|
+|Main anatomical site|Tonsils|Pharynx|Tonsils|Peritonsillar space|Retropharyngeal space|
+|Typical distribution|Bilateral|Diffuse|Bilateral|Unilateral|Variable|
+|Exudates|Usually absent|Sometimes|Common|Possible|Not typical|
+|Trismus|No|No|No|Characteristic|Possible|
+|Uvular deviation|No|No|No|Characteristic|Usually absent|
+|Neck stiffness|No|No|No|No|Characteristic|
+|Chronic presentation|Possible|No|No|No|No|
+|Typical age|Any|Any|Any|Adolescents/adults|Young children|
+
+
+|Grade|Tonsillar occupation|
+|---|---|
+|0|Within tonsillar fossa|
+|1+|Less than 25%|
+|2+|25–50%|
+|3+|50–75%|
+|4+|75–100% (kissing tonsils)|
+
+**Clinical relevance:**
+
+- Significant hypertrophy can cause upper airway obstruction.
+- Grade 4 tonsils are not necessarily infected.
+- Assess symptoms of sleep-disordered breathing, particularly in children.
+
+## 5. Practical Clinical Examination Algorithm
+
+In a patient presenting with sore throat:
+
+1. **Assess tonsillar size:** Are the tonsils enlarged?
+2. **Assess pharynx:** Is there diffuse pharyngeal erythema?
+3. **Look for exudates:** Are white or yellow exudates present?
+4. **Assess symmetry:** Is swelling bilateral or unilateral?
+5. **Check mouth opening:** Is trismus present?
+6. **Assess uvula:** Is it deviated?
+7. **Examine the neck:** Is there stiffness, torticollis, or painful extension?
+8. **Assess posterior pharyngeal wall:** Is there bulging?
+
+### Diagnostic Clues
+
+- Bilateral exudative tonsils without asymmetry or trismus → Acute tonsillitis/AFT.
+- Diffuse pharyngeal erythema with cough and rhinorrhea → Viral pharyngitis is likely.
+- Enlarged tonsils without acute inflammatory findings → Tonsillar hypertrophy.
+- Trismus + unilateral soft-palate swelling + contralateral uvular deviation → Quinsy.
+- Fever + torticollis + restricted neck extension → Consider RPA.
+
+## 6. Clinical Pearls and Safety
+
+- Trismus is an important clue for peritonsillar abscess.
+- Uvular deviation away from unilateral peritonsillar swelling strongly suggests Quinsy.
+- A patient with tonsillitis who initially improves and then develops worsening unilateral pain should be assessed for Quinsy.
+- Quinsy and retropharyngeal abscess can coexist with other upper respiratory infections.
+- Suspected RPA requires urgent assessment because of the risk of airway obstruction and mediastinal extension.
+- Avoid unnecessary pharyngeal examination or sedation in a child with suspected deep neck infection and airway compromise.
+- Tonsillar hypertrophy is not synonymous with tonsillitis.
+
+## 7. Unresolved Learning Points
+
+Topics worth exploring further:
+
+- Centor/McIsaac criteria and indications for streptococcal testing.
+- Viral versus bacterial pharyngitis.
+- Indications for tonsillectomy.
+- Imaging: ultrasound versus contrast-enhanced CT in suspected peritonsillar abscess.
+- Indications for surgical drainage of Quinsy and RPA.
+- Differentiating retropharyngeal abscess from parapharyngeal abscess and epiglottitis.
+
+## Key Insights
+
+1. **Hypertrophy is enlargement, not necessarily infection.**
+2. **Pharyngitis affects the pharynx; tonsillitis affects the tonsils.**
+3. **Trismus and contralateral uvular deviation are classic clues to Quinsy.**
+4. **Neck stiffness, torticollis, and restricted extension suggest RPA, particularly in young children.**
+5. **Always prioritize airway assessment when a deep neck space infection is suspected.**
