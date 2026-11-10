@@ -75,30 +75,7 @@ Sore throat and enlarged tonsils can result from several distinct conditions. Th
 
 ### D. Peritonsillar Abscess (Quinsy)
 
-**Definition:** Collection of pus in the peritonsillar space, commonly a complication of tonsillitis.
-
-**Clinical features:**
-
-- Usually unilateral severe sore throat.
-- Trismus (particularly characteristic).
-- Muffled, hot-potato voice.
-- Unilateral soft-palate/peritonsillar bulging.
-- Contralateral uvular deviation.
-- Dysphagia and possible drooling.
-
-**Management:**
-
-- Urgent ENT assessment.
-- Antibiotics covering streptococci and anaerobes.
-- Drainage when indicated.
-
-### E. Retropharyngeal Abscess (RPA)
-
-**Definition:** Deep neck space infection involving the retropharyngeal space.
-
-**Epidemiology:**
-
-- More common in 
+**Definition:** Collection of pus in the peritonsillar space, commonly a complication of
 ## Comparative Clinical Table
 
 |Finding|Hypertrophy|Pharyngitis|AFT|Quinsy|RPA|
