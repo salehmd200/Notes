@@ -6,7 +6,7 @@
 - [x] cefix is dosed for 5 or 7 days
 - [x] cefurixime dosing 50 per kg per dose twice a day
 - [x] mucosal neuromas on tongue
-- [x] kenacomb cr?
+- [x] kenacomb cr?...
 - [x] allow suryp ربع الوزن مرتين باليوم نفس الارتكس 
 - [x] bepanthen. 
 - [x] Gravy? Can i use corn starch as a thickner.
