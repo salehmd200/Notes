@@ -12,8 +12,8 @@
 - [x] Gravy? Can i use corn starch as a thickner.
 - [x] croup ddx - vs foreign body. 
 - [x] can i have multiple insta accounts? 
-- [ ] Can i get money if i set up an animated movies/books etc acc? How is it monetized? 
-- [ ] How to edit or do such posts? 
+- [x] Can i get money if i set up an animated movies/books etc acc? How is it monetized? 
+- [x] How to edit or do such posts? 
 - [x] ampicillin + cefotaxime menengial dose 50 per kg per dose q6hr
 - [x] dr maker on YT
 - [x] zoho notes for ipad 
@@ -21,7 +21,7 @@
 - [x] Peritonsillar abscess (quinsy) vs AFT Vs retrograde abscess
 - [x] psychiatry rundown on chatgpt to be handed over to notebook for audiooverview 
 - [x] why RSI is not the deafualt and used for everybody?
-- [ ] ETT skills? التسهيلات
+- [ ] ETT skills? التسهيلات.
 - [ ] Ett= ventilator? Or bag mask?
 - [x] فيديوهات ستب 2 الريفيوز، ممكن نرفعهم على ai و نعمل منهم تلاخيص او فلاش كاردز!!
 - [ ] The only recommended beta blockers in HFrEF are bisoprolol, metoprolol succinate, and carvidilol, in concomitant dialysis, dialysability makes carvidilol as the best option
